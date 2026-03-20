@@ -2,7 +2,7 @@
 
 This repository contains the code and processed datasets required to reproduce the figures presented in:
 
-## *Physical understanding of the extreme global temperature jump in 2023]
+## *Physical understanding of the extreme global temperature jump in 2023*
 
 ## Repository Structure
 
