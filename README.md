@@ -30,6 +30,7 @@ This repository contains the code and processed datasets required to reproduce t
 ```bash
 conda env create -f environment.yml
 conda activate GSAT-jump2023
+```
 
 2. Run the notebooks in: 
 
